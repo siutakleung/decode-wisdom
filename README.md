@@ -29,46 +29,47 @@ This directly extends Bennett and Landauer's insight: that reversible, informati
 
 ## Thesis Outline
 
-### 1. Subjective and Objective, and a Third Form of Truth
-A simple illustration of the human way of understanding truth — math is just illusion.
-- 1.1 Is 27.0000001 cm equal to 27 cm?
-- 1.2 What would an apple plus an apple be in reality (supermarket)?
+### Chapter 1: First Exploration of Knowledge and Wisdom — Explaining the Purpose of Knowledge and Wisdom.
+- 1.1 Two most important functions of wisdom
+- 1.2 Two most important functions of knowledge
 
-### 2. Connecting Knowledge and Wisdom
-Explaining the most obvious difference between knowledge and wisdom.
-- 2.1 Two most important "wisdom" functions
-- 2.2 Two most important "knowledge" functions
+### Chapter 2: Mathematical Concepts — The Limits of Mathematics in Reality.
+- 2.1 Is 27.0000001 cm equal to 27 cm?
+- 2.2 What would an apple plus an apple be in reality?
 
-### 3. The Only True Logic in the World
-Logic as understood by humans is based on the same principle. This chapter develops a deep understanding of this unique principle.
-- 3.1 Humans ignore a very important parameter in general logic
-- 3.2 Independent movement
-- 3.3 Interactive movement
-- 3.4 Explaining the "true logic" with a 30-second experiment
+### Chapter 3: Four Types of "Understanding" — Recognizing One Subjective, Two Objective, and Two Reality.
+- 3.1 Revisiting Apple Mathematics in Reality
+- 3.2 A Very Important but Forgotten Parameter in Reality
+- 3.3 Explaining What Is Independent Movement
+- 3.4 A 30-Second Experiment on "Independent Movement"
 
-### 4. Gaining a Deeper Understanding of Knowledge and Wisdom
-Completely explaining what is knowledge and what is wisdom.
-- 4.1 Using "true logic" to explain why genius is one percent inspiration and ninety-nine percent perspiration
-- 4.2 Following "true logic," you can also enter the last 1%
+### Chapter 4: Wisdom and Illusion — A Thorough Understanding of the Forms of Knowledge and Wisdom.
+- 4.1 Extending Independent Movement: Interactive Movement
+- 4.2 Why Genius Is 1% Inspiration and 99% Effort
+- 4.3 How to Enter the Last 1%
 
-### 5. Defining What Is "Right" and "Wrong"
-True "dichotomy" usage.
-- 5.1 The "right" and "wrong" of the 99%
-- 5.2 The "right" and "wrong" of the last 1%
+### Chapter 5: "Right" and "Wrong" — Defining Right and Wrong.
+- 5.1 What 99% of People Consider "Right" and "Wrong"
+- 5.2 What 1% of People Consider "Right" and "Wrong"
+- 5.3 Ambiguous Choices
 
-### 6. Recognizing What Is "Good" or "Bad"
-How to clarify an ambiguous choice.
+### Chapter 6: "Right" and "Wrong" in the Present, and "Right" and "Wrong" in the Future.
+- 6.1 How to Understand Right and Wrong in the Present and Future
 
-### 7. The Structure of Human Learning
-Understanding the patterns of human learning and decision-making.
+### Chapter 7: The Basic Structure of Human Thinking — Understanding Decision-Making Patterns.
+- 7.1 "One Begets Two, Two Begets Three, Three Begets All Things" — What Is It Really?
+- 7.2 The Origin of Greed, Anger, and Delusion
+- 7.3 Why Must Things Be Reasonable, Rational, and Lawful?
 
-### 8. Summarizing the Limits of Human Wisdom
-Explaining the limits of human understanding and answering questions that humans can answer.
-- 8.1 The three simplest conditions that meet the scientific requirements
-- 8.2 The limit of human wisdom
-- 8.3 The limit of mathematics
-- 8.4 What is time
-- 8.5 Why do people believe in God
+### Chapter 8: Essence, Fallacy, New Interpretation — Re-Understanding the Limits of Human Comprehension and Answering Questions That Have Answers, and What Questions Have No Answers.
+- 8.1 The Essence of Probability
+- 8.2 New Interpretation of Relativity, New Interpretation of Quantum Effects
+- 8.3 Three Conditions That Meet Scientific Requirements
+- 8.4 The Limit of Human Wisdom
+- 8.5 The Limit of Mathematics
+- 8.6 What Is Time
+- 8.7 The Difference Between Modern and Ancient Philosophy, Why Modern Philosophy Only Makes People Stupid
+- 8.8 Why Do People Believe in God
 
 ## Why This Project Exists
 
