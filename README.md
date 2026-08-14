@@ -57,7 +57,7 @@ This project is looking for:
 
 3. **Anyone** who can help bridge the gap between an independent researcher with no credentials and the academic community that can evaluate this work on its merits.
 
-If you can help, or if you know someone who can, please reach out.
+If you can help, or if you know someone who can, please reach out: **siutakleung@outlook.com** (Email / MS Teams).
 
 ---
 
