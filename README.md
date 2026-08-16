@@ -49,9 +49,7 @@ The author wants to live in a reasonable place. And reasonable places do not app
 
 ## Seeking Collaboration
 
-This research is not something most people can easily understand. I could spend a great deal of time teaching it — but that turns into teaching someone who may simply take my work and present it as their own. That has no meaning to me.
-
-I am not looking for someone who wants to use this research for personal gain. I am looking for someone who genuinely wants to understand the world and share that understanding with others.
+I can write the difficult parts in a way that even a high school student could understand — but that carries the risk of someone taking my work and presenting it as their own. I am not looking for someone who wants to use this research for personal gain. I am looking for someone who genuinely wants to understand the world and share that understanding with others.
 
 When Einstein published special relativity in 1905, he was an unknown patent clerk. The academic world ignored him. But Max Planck saw what others could not — he defended, lectured, and promoted Einstein's work, and eventually brought him to Berlin. History says Planck "discovered Einstein." It was one person's recognition that changed the course of physics.
 
