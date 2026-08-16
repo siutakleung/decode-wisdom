@@ -49,6 +49,20 @@ The author wants to live in a reasonable place. And reasonable places do not app
 
 ## Seeking Collaboration
 
+### The Planck I Am Waiting For
+
+In 1905, when Einstein published his theory of special relativity, he was an unknown clerk at the Bern Patent Office. The academic world's response was cold — most physicists either ignored or dismissed his work.
+
+But one person saw what others could not: **Max Planck**.
+
+Planck was among the very few top physicists who immediately recognized the significance of relativity. As early as 1906, he publicly discussed, defended, and lectured on relativity at the University of Berlin. He wrote to Einstein expressing strong interest, and sent his assistant Max von Laue to visit him. Through Planck's influence, relativity was rapidly accepted and promoted within the German physics community.
+
+In 1913–1914, Planck served as Rector of the University of Berlin. Together with Walther Nernst, he personally recommended and persuaded Einstein to accept a position in Berlin — membership in the Prussian Academy of Sciences, a professorship with no teaching obligations, and later directorship of the Kaiser Wilhelm Institute for Physics. This arrangement allowed Einstein to devote himself entirely to research, ultimately leading to the completion of general relativity.
+
+History often says Planck "discovered Einstein." It was the support and recommendation of this one person that changed the course of modern physics.
+
+**I am waiting for my Planck.**
+
 This project is looking for:
 
 1. **Charles H. Bennett** (IBM Fellow, IBM Research) — whose lifetime of work on the physics of information is the bedrock on which these ideas stand. He is one of the very few people alive who would understand this framework without requiring it to be reduced first.
