@@ -12,11 +12,11 @@ When you construct a building, 27.0000001 cm and 27 cm make no difference. No co
 
 But when you manufacture a 2nm CPU, 0.0000001 cm is 1 nm — exactly one generation apart. In this context, the two numbers are worlds apart.
 
-The same mathematical equation, in the same real world, is sometimes equal and sometimes not — depending on the application.
+The same set of numbers, in the same real world, is sometimes equal and sometimes not — depending on the application.
 
-The decisive values of mathematics do not directly apply to reality. Reality can of course reference mathematics, but what matters more is the application.
+The conclusions of mathematics do not directly apply to reality. Reality can of course reference mathematics, but what matters more is how to apply it.
 
-This raises a question worth thinking about: mathematics can be perfectly precise, but the perfection of reality is never the perfection of mathematics. The perfection of reality always depends on the situation — every case can vary. The perfection of mathematics is precisely its distance from reality. The perfection of mathematics is precisely its distance from reality.
+This raises a question worth thinking about: mathematics can be perfectly precise, but the perfection of mathematics is precisely its distance from reality. The perfection of reality is never the perfection of mathematics — the perfection of reality always depends on the situation, and every case can vary. The perfection of mathematics is precisely its distance from reality.
 
 So why is the perfection of reality different from the perfection of mathematics? The next section explains — with an apple.
 
