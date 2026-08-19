@@ -16,8 +16,8 @@ The same mathematical equation, in the same real world, is sometimes equal and s
 
 Mathematics itself does not say equal or not equal. It is the application that decides.
 
-This raises a question worth thinking about: mathematics can be perfectly precise, but reality is never perfect. The perfection of mathematics is precisely its distance from reality.
+This raises a question worth thinking about: mathematics can be perfectly precise, but the perfection of reality is never the perfection of mathematics. The perfection of reality always depends on the situation — every case can vary. The perfection of mathematics is precisely its distance from reality.
 
-So why is reality never perfect? The next section explains — with an apple.
+So why is the perfection of reality different from the perfection of mathematics? The next section explains — with an apple.
 
 ## 2.2 What Would an Apple Plus an Apple Be in Reality?
