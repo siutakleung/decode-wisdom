@@ -14,9 +14,9 @@ But when you manufacture a 2nm CPU, 0.0000001 cm is 1 nm — exactly one generat
 
 The same mathematical equation, in the same real world, is sometimes equal and sometimes not — depending on the application.
 
-Mathematics itself does not say equal or not equal. It is the application that decides.
+The decisive values of mathematics do not directly apply to reality. Reality can of course reference mathematics, but what matters more is the application.
 
-This raises a question worth thinking about: mathematics can be perfectly precise, but the perfection of reality is never the perfection of mathematics. The perfection of reality always depends on the situation — every case can vary. The perfection of mathematics is precisely its distance from reality.
+This raises a question worth thinking about: mathematics can be perfectly precise, but the perfection of reality is never the perfection of mathematics. The perfection of reality always depends on the situation — every case can vary. The perfection of mathematics is precisely its distance from reality. The perfection of mathematics is precisely its distance from reality.
 
 So why is the perfection of reality different from the perfection of mathematics? The next section explains — with an apple.
 
